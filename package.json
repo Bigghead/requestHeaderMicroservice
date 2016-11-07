@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Bigghead/requestHeaderMicroservice#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "my-local-ip": "^1.0.0"
   }
 }
